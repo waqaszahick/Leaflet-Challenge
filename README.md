@@ -12,7 +12,7 @@ This is a two-level or two-part assignment. In level one i.e. basic visualizatio
 -	Made earthquakes with higher magnitudes appear larger and darker in colour.
 -	Included pop-ups that provide additional information about the earthquake when a marker is clicked.
 -	Created a legend that provides context for the map data.
--	Your visualization should look something like the map above.
+
 As a part of level two of this assignment, I was required to plot a second data-set on the map to illustrate the relationship between tectonic plates and seismic activity. I had to pull-in a second data set from https://github.com/fraxen/tectonicplates, and visualize it alongside my original set of data.
 In this step (level two) of my assignment, I performed the following tasks:
 -	Plotted a second data-set on the map.
